@@ -1,4 +1,4 @@
-# Proposition de Joachim
+# Proposition de @ewjoachim et @linedubeth
 
 Le code est principalement dans le Notebook Jupyter que vous pouvez lancer en installant jupyter :
 
